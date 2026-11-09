@@ -9,7 +9,7 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-XFqUyY8s3eVfY1X9ljXYt8URt-RjMq6Sykevc9wbqA&s" group-title="Filmes",Mux PTS shift test
 https://test-streams.mux.dev/pts_shift/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSgP0a1qd-mvCtnda8VKgen000Xrc61MSw7O1rQPELKg&s=10" group-title="Filmes",Apple Advanced (HEVC)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEKuMCAG_85s9nhHa-dbrGLSlGiI0VKJS6armDfDhEww&s=10" group-title="Filmes",Apple Advanced (HEVC)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Deutsche_Welle_symbol_2012.svg/200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Live news",DW News (English)
