@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1 group-title="Demo videos",Big Buck Bunny (HLS)
+# Source: Mux public test streams
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="Demo videos",Tears of Steel (HLS)
+# Source: Unified Streaming demo content
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 group-title="Demo videos",Mux PTS shift test
+# Source: Mux public test streams (PTS shift)
+https://test-streams.mux.dev/pts_shift/master.m3u8
+
+#EXTINF:-1 group-title="Demo videos",Apple Advanced (HEVC)
+#Source: Apple HLS reference streams (HEVC)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Deutsche_Welle_symbol_2012.svg/200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Live news",DW News (English)
+
+# Source: Deutsche Welle public live (720p variant; the master declares WebVTT subtitles some players stall on)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Deutsche_Welle_symbol_2012.svg/200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Live news",DW (Arabic)
+
+# Source: Deutsche Welle public live (720p variant)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-name="Tropoja" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-id="TropojaTelevizion.al" tvg-country="AL" group-title="Albania",Tropoja
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Apollon" tvg-logo="https://i.imgur.com/gUz2AjM.png" tvg-id="TVApollon.al" tvg-country="AL" group-title="Albania",TV Apollon Ⓢ
+https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
+
+#EXTINF:-1 tvg-name="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/500px-Vizion_Plus.svg.png" tvg-id="VizionPlus.al" tvg-country="AL" group-title="Albania",Vizion Plus
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+
+#EXTINF:-1 tvg-name="Belarus 4 Vitebsk" tvg-logo="https://i.imgur.com/TW6Ap71.png" tvg-id="Belarus4Vitebsk.by" tvg-chno="5" tvg-country="BY" group-title="Belarus",Belarus 4 Vitebsk Ⓢ
+https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Tv1-new.png" tvg-id="TV1.bg" tvg-country="BG" group-title="Bulgaria",TV1
+https://tv1.cloudcdn.bg/temp/livestream.m3u8
+
+#EXTINF:-1 tvg-name="TV+" tvg-logo="https://i.imgur.com/NtuZIEJ.png" tvg-id="TVPlus.cl" tvg-chno="2" tvg-country="CL" group-title="Chile",TV+
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RIK Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_RIK_Sat_2017.svg/500px-Logo_RIK_Sat_2017.svg.png" tvg-id="RIKSat.cy" tvg-chno="4" tvg-country="CY" group-title="Cyprus",RIK Sat
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="UTV" tvg-logo="https://imgur.com/ulfeIwM.png" tvg-id="utv.cz" tvg-chno="38" tvg-country="CZ" group-title="Czech Republic",UTV
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
+
+#EXTINF:-1 tvg-name="UBS (720p)" tvg-logo="" tvg-id="UBS.mn" tvg-chno="12" tvg-country="MN" group-title="Mongolia",UBS (720p)
+https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8
+
