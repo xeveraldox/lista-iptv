@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/240px-Big_buck_bunny_poster_big.jpg" group-title="Filmes",Big Buck Bunny (HLS)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN_DVEYnWM2CC_djM4P0uadljsYRfLKojBNqj8ru8x-w&s=10" group-title="Filmes",Big Buck Bunny (HLS)
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMVrhQA9ZPXCpl4cOu7Em7mtvB-mTgWay0ij7TgSp4ysOUXkKmNM-I8_I&s=10" group-title="Filmes",Tears of Steel (HLS)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mux_logo.svg/240px-Mux_logo.svg.png" group-title="Filmes",Mux PTS shift test
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-XFqUyY8s3eVfY1X9ljXYt8URt-RjMq6Sykevc9wbqA&s" group-title="Filmes",Mux PTS shift test
 https://test-streams.mux.dev/pts_shift/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/240px-Apple_logo_black.svg.png" group-title="Filmes",Apple Advanced (HEVC)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSgP0a1qd-mvCtnda8VKgen000Xrc61MSw7O1rQPELKg&s=10" group-title="Filmes",Apple Advanced (HEVC)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Deutsche_Welle_symbol_2012.svg/200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Live news",DW News (English)
