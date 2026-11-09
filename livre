@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/240px-Big_buck_bunny_poster_big.jpg" group-title="Filmes",Big Buck Bunny (HLS)
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tears_of_Steel_logo.png/240px-Tears_of_Steel_logo.png" group-title="Filmes",Tears of Steel (HLS)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMVrhQA9ZPXCpl4cOu7Em7mtvB-mTgWay0ij7TgSp4ysOUXkKmNM-I8_I&s=10" group-title="Filmes",Tears of Steel (HLS)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mux_logo.svg/240px-Mux_logo.svg.png" group-title="Filmes",Mux PTS shift test
