@@ -1,28 +1,20 @@
 #EXTM3U
 #EXTINF:-1 group-title="Demo videos",Big Buck Bunny (HLS)
-# Source: Mux public test streams
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 group-title="Demo videos",Tears of Steel (HLS)
-# Source: Unified Streaming demo content
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
 #EXTINF:-1 group-title="Demo videos",Mux PTS shift test
-# Source: Mux public test streams (PTS shift)
 https://test-streams.mux.dev/pts_shift/master.m3u8
 
 #EXTINF:-1 group-title="Demo videos",Apple Advanced (HEVC)
-#Source: Apple HLS reference streams (HEVC)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Deutsche_Welle_symbol_2012.svg/200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Live news",DW News (English)
-
-# Source: Deutsche Welle public live (720p variant; the master declares WebVTT subtitles some players stall on)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Deutsche_Welle_symbol_2012.svg/200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Live news",DW (Arabic)
-
-# Source: Deutsche Welle public live (720p variant)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-name="Tropoja" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-id="TropojaTelevizion.al" tvg-country="AL" group-title="Albania",Tropoja
